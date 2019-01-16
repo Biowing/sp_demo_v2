@@ -32,11 +32,14 @@ namespace WindowsFormsApplication1
         {
             if (textBox2.UseSystemPasswordChar==true)
             {
+                button2.BackColor = Color.FromArgb(44,171,227);
                 textBox2.UseSystemPasswordChar = false;
                 button2.BackgroundImage = ((System.Drawing.Image)(Properties.Resources.openeye));
             }
             else
             {
+                button2.BackColor = Color.FromArgb(255,80,80);
+
                 textBox2.UseSystemPasswordChar = true;
                 button2.BackgroundImage = ((System.Drawing.Image)(Properties.Resources.closedeye));
             }
@@ -62,6 +65,19 @@ namespace WindowsFormsApplication1
                     this.Close();
                 }
             }
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            int rsayi;
+            Random r = new Random();
+            rsayi = r.Next(10000, 99999);
+            lblkod.Text = rsayi.ToString();
+        }
+        //Şifremi Unuttum
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
 
         }
     }
