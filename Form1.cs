@@ -72,13 +72,22 @@ namespace WindowsFormsApplication1
         {
             int rsayi;
             Random r = new Random();
-            rsayi = r.Next(10000, 99999);
+            rsayi = r.Next(100000, 999999);
             lblkod.Text = rsayi.ToString();
         }
         //Şifremi Unuttum
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
 
+        }
+
+        //Güvenlik Kodu sadece sayı girişi
+        private void textBox3_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.'))
+            {
+                e.Handled = true;
+            }
         }
     }
 }

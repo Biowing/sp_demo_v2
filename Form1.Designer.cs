@@ -193,10 +193,10 @@
             // lblkod
             // 
             this.lblkod.AutoSize = true;
-            this.lblkod.Font = new System.Drawing.Font("Arial Black", 13F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))));
-            this.lblkod.Location = new System.Drawing.Point(256, 328);
+            this.lblkod.Font = new System.Drawing.Font("Arial Black", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))));
+            this.lblkod.Location = new System.Drawing.Point(240, 328);
             this.lblkod.Name = "lblkod";
-            this.lblkod.Size = new System.Drawing.Size(84, 26);
+            this.lblkod.Size = new System.Drawing.Size(90, 27);
             this.lblkod.TabIndex = 14;
             this.lblkod.Text = "000000";
             // 
@@ -206,10 +206,12 @@
             this.textBox3.Font = new System.Drawing.Font("Arial Narrow", 15F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.textBox3.Location = new System.Drawing.Point(72, 328);
+            this.textBox3.MaxLength = 999999;
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(160, 30);
+            this.textBox3.Size = new System.Drawing.Size(120, 30);
             this.textBox3.TabIndex = 15;
-            this.textBox3.UseSystemPasswordChar = true;
+            this.textBox3.Text = "000000";
+            this.textBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
             // 
             // linkLabel1
             // 
