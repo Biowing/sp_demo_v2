@@ -2,7 +2,6 @@ C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsForm
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
-C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
@@ -10,3 +9,4 @@ C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsForm
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.main.resources
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.veritabani.resources
+C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources

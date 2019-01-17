@@ -21,7 +21,7 @@ namespace WindowsFormsApplication1
         {
             //sayfa yüklendiğinde giris ekranına gidiyor ve kullanıcı girişine göre na programı gösteriyor ya da kapatıyor
 
-            Form1 form1 = new Form1();
+            Login form1 = new Login();
             var cevap = form1.ShowDialog();
             if (cevap==DialogResult.OK)
             {
