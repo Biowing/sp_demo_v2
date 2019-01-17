@@ -174,7 +174,7 @@
             this.button5.Location = new System.Drawing.Point(240, 384);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(88, 32);
-            this.button5.TabIndex = 12;
+            this.button5.TabIndex = 8;
             this.button5.Text = "GİRİŞ";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
@@ -209,7 +209,7 @@
             this.txtkod.MaxLength = 999999;
             this.txtkod.Name = "txtkod";
             this.txtkod.Size = new System.Drawing.Size(120, 30);
-            this.txtkod.TabIndex = 15;
+            this.txtkod.TabIndex = 7;
             this.txtkod.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
             // 
             // linkLabel1
