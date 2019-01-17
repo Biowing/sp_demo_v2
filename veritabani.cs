@@ -24,7 +24,7 @@ namespace WindowsFormsApplication1
 
             string connetionString = null;
             MySqlConnection cnn;
-            connetionString = "server=sql104.epizy.com; database =epiz_23302656_sp_depo;uid=epiz_23302656;pwd=IXzpg18Nupxy;";
+            connetionString = "server=remotemysql.com; database =tDNQ1XRXlu;uid=tDNQ1XRXlu;pwd=F44eHROJZ1;";
             cnn = new MySqlConnection(connetionString);
             try
             {

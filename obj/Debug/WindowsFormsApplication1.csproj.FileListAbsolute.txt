@@ -10,3 +10,4 @@ C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsForm
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.veritabani.resources
 C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\omerd\Documents\Üniversite\2. Sınıf\2. Dönem\sp_demo_v2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mail.resources
